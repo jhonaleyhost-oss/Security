@@ -8,7 +8,7 @@ BLUE='\033[0;34m'
 NC='\033[0m'
 
 # Configuration
-DOMAIN="pblc.jhonaley.net"
+DOMAIN="https://pblc.jhonaley.net"
 PLTA="ptla_Ttn9aH9lIGHJp09mlUTNmx5Gg7kqMbfyxd0fP4u3Cit"
 PLTC="ptlc_QniCTjKknZFX0R6kVYRhx1xQPMm4vu7fToJoep3YVqK"
 LOCATION="1"
