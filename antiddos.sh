@@ -10,7 +10,7 @@ NC='\033[0m'
 # Configuration
 DOMAIN="https://publik-pnl.jhonaley.net"
 PLTA="ptla_rXRyJk8v5yk9zE64yIcCi3F3kX3CHMcDaz3mw1GQmYx"
-PLTC="ptlc_z6uO28Y2tbcQlqIhEtXVdGsbDTIGqwJc5QyF48olVDF"
+PLTC="ptlc_61S6jFX0hEps7k1x21rbKLfjj3lN6Ekh2MjsmUbs3lS"
 LOCATION="1"
 EGG_ID="15"
 THRESHOLD_CONNECTIONS=500
