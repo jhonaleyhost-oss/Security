@@ -8,9 +8,9 @@ BLUE='\033[0;34m'
 NC='\033[0m'
 
 # Configuration
-DOMAIN="https://pblc.jhonaley.net"
-PLTA="ptla_Ttn9aH9lIGHJp09mlUTNmx5Gg7kqMbfyxd0fP4u3Cit"
-PLTC="ptlc_QniCTjKknZFX0R6kVYRhx1xQPMm4vu7fToJoep3YVqK"
+DOMAIN="https://publik-pnl.jhonaley.net"
+PLTA="ptla_rXRyJk8v5yk9zE64yIcCi3F3kX3CHMcDaz3mw1GQmYx"
+PLTC="ptlc_z6uO28Y2tbcQlqIhEtXVdGsbDTIGqwJc5QyF48olVDF"
 LOCATION="1"
 EGG_ID="15"
 THRESHOLD_CONNECTIONS=500
